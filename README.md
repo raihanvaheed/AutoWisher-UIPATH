@@ -1,4 +1,6 @@
 # AutoWisher-UIPATH 
+![Logo](https://github.com/raihanvaheed/AutoWisher-UIPATH/blob/master/AuttoWish%20logo.png)
+
 Made a UIPath robot to read data from an excel and deliver messages on instagram or whatsapp based on the specified date mentioned
 * Note: Currently the project remains as a script which runs on UIPath studio, hence only machines with windows installed will be able to download the sofware directly. Other OS will require to install the software on a virtual machine. 
 
